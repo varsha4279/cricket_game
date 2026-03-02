@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(164, 212, 130);
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.choice-image {
+  height: 75px;
+}
+
+body{
+  background-color: lightpink;
+  cursor: pointer;
+
+}
+
+.reset{
+  padding: 10px;
+  border-radius: 75px;
+   cursor: pointer;
+   padding-left: 25px;
+   padding-right: 25px;
+
+}
